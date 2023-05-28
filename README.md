@@ -25,7 +25,7 @@ Here's what [a sentence](https://www.google.com/speech-api/v1/synthesize?text=%2
 
 Useful if you're learning a new language
 
-Then it's going to ask you for the filename of your novel. I have only tried txt files. So just place your novel in the same folder and type its name. ex. mynovel.txt
+Then it's going to ask you for the filename of your novel. I have only tried txt files. So just place your novel in the same folder and type its name. eg. mynovel.txt
 
 Now it will display a progress bar, and it will download the audio for your novel and save it with the same file name base, as an mp3. In this case mynovel.mp3
  
