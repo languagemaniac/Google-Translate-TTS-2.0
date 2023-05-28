@@ -1,4 +1,4 @@
-Google-Translate-TTS
+Google-Translate-TTS 2.0
 ====================
 
 I modified the original script quite a lot with the help of Chatgpt. Overall here are the changes:
