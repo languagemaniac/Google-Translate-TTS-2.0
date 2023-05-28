@@ -20,6 +20,7 @@ It will first ask you to choose a language by inputing a number. (If the languag
 Then it's goint to ask you at which speed do you want your document to be read. 
 
 Here's what [a sentence](https://www.google.com/speech-api/v1/synthesize?text=%22This%20is%20an%20example%20sentence%20at%20a%20speed%20of%20zero%20point%20four%22&enc=mpeg&lang=en-us&speed=0.4&client=lr-language-tts&use_google_only_voices=1) in english sounds like at a speed value of 0.4
+
 Here's what [a sentence](https://www.google.com/speech-api/v1/synthesize?text=%22This%20is%20an%20example%20sentence%20at%20a%20speed%20of%200.5%22&enc=mpeg&lang=en-us&speed=0.5&client=lr-language-tts&use_google_only_voices=1) in english sounds like at a speed of 0.5
 
 Useful if you're learning a new language
