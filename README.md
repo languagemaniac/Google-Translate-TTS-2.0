@@ -43,4 +43,5 @@ Now it will download the audio for your novel and save it with the same file nam
 Note
 =====
 If the language you want to select, is not on the list, open an issue and I'll add it
+
 The number of simultaneous downloads can be changed by altering the "max_workers" number in the code. Currently set to 20.
